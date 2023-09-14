@@ -37,9 +37,10 @@ https://github.co.jp/
 
 アカウント作成の説明は今回は端折っていきます。
 
-1. 右上のアイコンを押したらメニューが出ます。
-2. 「Your Repositories」を押すと自分のリポジトリ一覧が表示されます。まだ何もないはずです。
-3. 緑色の「New」ボタンを押して「Create a new repository」画面を開きます。
+1. https://github.com/ にアクセスします。
+2. 右上のアイコンを押したらメニューが出ます。
+3. 「Your Repositories」を押すと自分のリポジトリ一覧が表示されます。まだ何もないはずです。
+4. 緑色の「New」ボタンを押して「Create a new repository」画面を開きます。
 5. 「Repository name」に新しいリポジトリの名前を入力しましょう。
 6. 「Public」か「Private」を選ぶことができます。作業を公開する意図がなければ「Private」がいいでしょう。
 7. 「README」ファイルがあると便利なので、今回は「Add a README file」にチェックを付けておきましょう。
